@@ -1,5 +1,3 @@
-__author__ = "Aylin Nadine Okandan"
-
 import numpy as np
 import random
 import math
